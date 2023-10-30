@@ -1,4 +1,4 @@
-# Movie (Project-3)
+# Movie Prediction Project
  
 ## **Business Problem:**
 
