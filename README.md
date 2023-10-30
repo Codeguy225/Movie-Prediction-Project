@@ -10,7 +10,7 @@
 
 ### Model 2
 
-## **Describe your final model**
+## **Describe Your Final Model**
 
 ## **Recommendations:**
 
